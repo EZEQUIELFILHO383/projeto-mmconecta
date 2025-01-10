@@ -359,6 +359,7 @@ header{
     font-weight: 500;
     color: #000;
     margin-left: 130px;
+    margin-bottom: 50px;
 }
 
 .add-cart {
@@ -601,6 +602,9 @@ section .title::after{
     color: #000;
 }
 .contact .contact-content .row .info .sub-title{
+    color: #ff8707;
+}
+.contact .contact-content .row .info .sub-title a{
     color: #ff8707;
 }
 .contact .contact-content .row ion-icon{
